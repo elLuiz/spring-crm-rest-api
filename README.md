@@ -1,1 +1,3 @@
-"# spring-crm-rest-api" 
+# Customer Relationship API
+
+This API is being built in Spring.
